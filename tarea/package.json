@@ -1,0 +1,15 @@
+{
+  "name": "tecsup-tarea-anc",
+  "version": "1.0.0",
+  "description": "tarea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adrian",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "underscore": "^1.13.6"
+  }
+}
